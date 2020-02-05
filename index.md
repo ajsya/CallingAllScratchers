@@ -14,7 +14,7 @@ If you want to be a manager or head manager please fill out this form, https://f
 ### Head Managers
 Head managers can remove curators or other managers if they feel the need. Please contact one if someone does something they shouldn't. 
 
-'''List of Head Managers'''
+**List of Head Managers**
 * ajsya (Owner)
 * LightBalloon292
 * Music017
