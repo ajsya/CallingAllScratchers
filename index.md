@@ -6,7 +6,7 @@ Calling All Scratchers! Add all the projects that you've made, loved, or have ev
 Anyone can curate, just ask! A manager well invite you shortly after you ask.
 
 ### Managers
-If you want to be a manager or head manager please fill out this form, https://form-redirect.glitch.me If you are a manager please do not promote anybody without my permission or change the title or thumbnail!
+If you want to be a manager or head manager please fill out this form, [https://form-redirect.glitch.me](https://form-redirect.glitch.me) If you are a manager please do not promote anybody without my permission or change the title or thumbnail!
 
 ### Head Managers
 Head managers can remove curators or other managers if they feel the need. Please contact one if someone does something they shouldn't. 
