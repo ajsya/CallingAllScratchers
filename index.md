@@ -1,6 +1,3 @@
-# Calling All Scratchers
-### A Scratch Studio
-
 ## About
 Calling All Scratchers! Add all the projects that you've made, loved, or have ever viewed!
 
